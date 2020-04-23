@@ -144,7 +144,7 @@ echo " "
 read punch
 fi
 cd $HOME/crash
-bash infect.sh ;;
+bash crash.sh ;;
 4)
 sleep 2.0
 clear
