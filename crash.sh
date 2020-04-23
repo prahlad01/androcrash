@@ -143,7 +143,7 @@ echo -e "$cyan        click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/Infect
+cd $HOME/crash
 bash infect.sh ;;
 4)
 sleep 2.0
