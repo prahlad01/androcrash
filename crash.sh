@@ -102,7 +102,7 @@ read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
 read nitroo
-cd $HOME/crash
+cd $HOME/androcrash
 bash crash.sh
 else
 bash save.sh
