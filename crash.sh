@@ -114,7 +114,7 @@ echo -e "$cyan             click$grn ENTER$cyan to go back into infect  menu$rse
 echo " "
 read punch
 fi
-cd $HOME/crash
+cd $HOME/androcrash
 bash crash.sh ;;
 3)echo " "
 echo " "
