@@ -143,7 +143,7 @@ echo -e "$cyan        click$grn ENTER$cyan to go back into crash  menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/crash
+cd $HOME/androcrash
 bash crash.sh ;;
 4)
 sleep 2.0
