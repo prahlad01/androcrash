@@ -40,7 +40,7 @@ echo -e "$red                      ▶ Coded by$Prahlad Shukla$red ◀$rset"
 echo -e "$red                 ⫸$ylo youtube.com/thecyberkiddie$red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                   [Infect them with fun]$rset"
+echo -e "$red                   [crash them with fun]$rset"
 echo " "
 echo " "
 echo -e "$grn              ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
@@ -61,7 +61,7 @@ case "$n" in
 1)echo " "
 echo " "
 echo " "
-echo -e "$red               You are going to$grn Infect$red Now$rset"
+echo -e "$red               You are going to$grn crash$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
@@ -139,7 +139,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan        click$grn ENTER$cyan to go back into infect  menu$rset"
+echo -e "$cyan        click$grn ENTER$cyan to go back into crash  menu$rset"
 echo " "
 read punch
 fi
