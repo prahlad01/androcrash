@@ -131,7 +131,7 @@ read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                 Are you sure? Press$grn ENTER$red to exit$rset"
 read monn
-cd $HOME/crash
+cd $HOME/androcrash
 bash crash.sh
 else
 bash update.sh
