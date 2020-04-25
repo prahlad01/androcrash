@@ -66,7 +66,7 @@ echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 read hulke
-cd $HOME/crash/lol
+cd $HOME/androcrash/lol
 echo " "
 echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
